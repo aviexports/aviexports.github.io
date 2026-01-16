@@ -3,12 +3,11 @@
   "addresses": [
     {
       "paymentNetwork": "BTC",
-      "environment": "mainnet",
+      "environment": "MAINNET",
       "addressDetailsType": "CryptoAddressDetails",
       "addressDetails": {
         "address": "bc1qu9xql4y3pt6fxmetqvmpemy3n8d2lcscsr7tg3"
       }
     }
-  ],
-  "verifiedAddresses": []
+  ]
 }
